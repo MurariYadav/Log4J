@@ -17,6 +17,7 @@ public class Product {
 		log.warn("THIS IS WARNING");
 		log.fatal("THIS IS 	FATAL");
 		log.error("THIS IS 	ERROR");
+		System.out.println("Done");
 	}
 
 }
